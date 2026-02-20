@@ -18,7 +18,7 @@
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>
 				</ul><p>
-				<?php include "login_form.php";?>
+				<?php include "login_form.php";?>GGGGGGGGGGGGGGGGGGGGGG
 			</td>
         </tr>
     </table>
